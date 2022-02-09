@@ -1,0 +1,1 @@
+"""megaseg tests suite."""
