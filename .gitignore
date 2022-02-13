@@ -1,7 +1,12 @@
+notebooks/.ipynb_checkpoints/
+megaseg.egg-info/
+.ipynb_checkpoints/
+
 .env
 __pycache__
 # Local .terraform directories
 **/.terraform/*
+terraform/gcp/.terraform.lock.hcl
 
 # .tfstate files
 *.tfstate
@@ -41,3 +46,4 @@ terraform.rc
 dist/
 *imports*
 .vm-*
+megaseg/.ipynb_checkpoints
