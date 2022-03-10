@@ -1,6 +1,7 @@
 notebooks/.ipynb_checkpoints/
 megaseg.egg-info/
 .ipynb_checkpoints/
+notebooks/data/
 
 .env
 __pycache__
